@@ -24,3 +24,10 @@ Her experience extends to guiding software life cycle processes per IEC 62304. S
 - IEC 62366-1
 - IEC 60601-1
 - Regulatory knowledge of medical devices, in vitro diagnostic devices, and medical device software (SaMD/MDSW) for EU, US FDA, Health Canada, Australia TGA, Brazil ANVISA, Colombia INVIMA, Taiwan TFDA, and other jurisdictions.
+
+## Publication and Presentation ##
+- Contributed author of
+    - Regulatory Affairs Professionals Society (RAPS), [From X-Rays to AI: Navigating US Regulations in Radiological Health](https://www.raps.org/products/from-x-rays-to-ai-navigating-us-regulations-in-radiological-health-e-book). ISBN: 978-1-947493-90-2
+- Invited Speaker
+    - McGill University, BMDE-654-001 - Biomed Reg Affairs-Med Devices, on SaMD, cybersecurity, and AI-based medical devices, 2021, 2022, 2023.
+    - Medtech Canada, Intro to Regulatory Affairs in Software as Medical Devices (SaMD), Dec 15, 2022.
